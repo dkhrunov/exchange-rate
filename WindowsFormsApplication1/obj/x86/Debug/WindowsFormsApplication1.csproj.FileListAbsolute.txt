@@ -6,3 +6,11 @@ c:\users\denis\documents\visual studio 2010\Projects\WindowsFormsApplication1\Wi
 c:\users\denis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 c:\users\denis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
 C:\Users\Denis\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Exchange-rate\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
