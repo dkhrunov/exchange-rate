@@ -1,4 +1,4 @@
-# Exchange-rate
+# Exchange rate
 Parsing exchange rate data from the central bank of Russia - https://www.cbr.ru/currency_base/daily/
 ## Screenshot main window:
 ![Main window](https://github.com/therealpanda98/Exchange-rate/blob/master/Screenshots/screenshot_main_programm.PNG)
